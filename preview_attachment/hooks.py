@@ -1,8 +1,8 @@
 app_name = "preview_attachment"
 app_title = "Preview Attachment"
-app_publisher = "Hardik Zinzuvadiya"
+app_publisher = "Altamash"
 app_description = "Preview File Attachment"
-app_email = "hardikzinzuvadiya7@gmail.com"
+app_email = "altamash@ppecon.com"
 app_license = "mit"
 required_apps = ['frappe']
 

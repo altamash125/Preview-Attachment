@@ -1,7 +1,7 @@
 [project]
 name = "preview_attachment"
 authors = [
-    { name = "Hardik Zinzuvadiya", email = "hardikzinzuvadiya7@gmail.com"}
+    { name = "Altamash", email = "altamash@ppecon.com"}
 ]
 description = "Preview File Attachment"
 requires-python = ">=3.10"
